@@ -3,3 +3,5 @@
 * cd YARGI-PAGE-CHECK
 
 * pip install -r requirements.txt
+
+* python3 yargi-wp.py -u <url>
