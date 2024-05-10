@@ -4,4 +4,4 @@
 
 * pip install -r requirements.txt
 
-* python3 yargi-wp.py -u <url>
+* python3 MOONZ-WPCHECK.py -u <url>
