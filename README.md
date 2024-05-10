@@ -1,6 +1,6 @@
 * git clone https://github.com/yargi100k/YARGI-PAGE-CHECK/
 
-* cd MOONZ-WPHECK
+* cd WPHECK
 
 * pip install -r requirements.txt
 
