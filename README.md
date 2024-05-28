@@ -1,7 +1,7 @@
-* git clone https://github.com/yargi100k/YARGI-PAGE-CHECK/
+* git clone https://github.com/yargi100k/WP-CHECK/
 
-* cd WPHECK
+* cd WP-CHECK
 
 * pip install -r requirements.txt
 
-* python3 MOONZ-WPCHECK.py -u <url>
+* python3 YARGI-WPCHECK.py -u <url>
