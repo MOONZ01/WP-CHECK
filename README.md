@@ -4,4 +4,4 @@
 
 * pip install -r requirements.txt
 
-* python3 YARGI-WPCHECK.py -u <url>
+* python3 YARGI-WP.py -u <url>
