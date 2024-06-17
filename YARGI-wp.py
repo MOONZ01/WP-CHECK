@@ -35,8 +35,8 @@ def help():
     print("type `python YARGI-wp.py -h` for help or for more infromation")
 
 def cmp_help():
-    print("python wpcheck.py -u <url>    : Scan a single URL")
-    print("python wpcheck.py -i <input_file>   : Scan multiple URL from a file")
+    print("python YARGI-wp.py -u <url>    : Scan a single URL")
+    print("python YARGI-wp.py -i <input_file>   : Scan multiple URL from a file")
 
 
 def check_file_vuln(url):
